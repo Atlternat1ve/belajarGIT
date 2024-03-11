@@ -7,3 +7,14 @@ Daftar tugas / branch
 6. Tugas-php
 7. Tugas-finalProject
 Daftar perintah GiT
+-git clone
+-git add
+-git status
+-git branch
+-git commit
+-git checkout
+-git merge
+-git push
+-git push origin all
+-touch
+-nano
